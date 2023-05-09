@@ -1,0 +1,11 @@
+Para proceder a describir algunos circuitos lógicos capaces de realizar operaciones permiten 
+aritméticas, se darán algunos detalles de la aritmética binaria. El sistema binario o de base 2 
+de representación de los números, como el usual sistema decimal o de base 10, es un 
+sistema posicional. El sistema binario consta exclusivamente de los símbolos “0” y “1”, los 
+cuales precisamente denotan los números 0 y 1 respectivamente. Cualquier otro número es 
+representable por una cadena de bits (de 0s y 1s), en la cual la posición del bit en la cadena 
+es significativa como los símbolos numéricos que representan un número en el sistema 
+decimal: los números 0 y 1 en una posición o columna multiplican una potencia de 2, la 
+base del sistema, y su posición determina a que potencia de 2 multiplican. Por ejemplo, la 
+cadena de bits 0100 representa el número natural representado por el 20 en el sistema 
+decimal:

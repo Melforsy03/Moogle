@@ -1,0 +1,14 @@
+Los pasos anteriormente introducidos son importantes para construir demostraciones, pero 
+no permiten realizar siquiera la deducción de la “abuelidad” de una persona (verifíquese
+con el ejemplo dado al principio del epígrafe). Luego se necesita introducir nuevas formas 
+de pasos deductivos que permitan ampliar la capacidad deductiva necesaria para demostrar 
+proposiciones como teoremas en una teoría.
+El estudio de los procedimientos que permiten introducir y justificar pasos en una 
+demostración es el objetivo de la teoría de la deducción de la lógica. Estos procedimientos 
+están constituidos fundamentalmente por lo que se denominan reglas de inferencias 
+(deductivas) cuyo estudio se desarrollará ahora a nivel de la lógica proposicional. 
+Las reglas de inferencia deductiva constituyen el método fundamental de generación y 
+justificación lógica de pasos en una demostración y son las que completan la 
+caracterización formal de un concepto de deducción o razonamiento deductivo. 
+La estructura general de una regla de inferencia (deductiva) es la siguiente
+pasas pasis

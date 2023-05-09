@@ -1,0 +1,23 @@
+La deducción no sólo está presente en el razonamiento común: no existe ciencia alguna 
+donde no intervenga la deducción como una de las formas relevantes del razonamiento 
+científico. En matemática, la deducción constituye una forma fundamental de 
+razonamiento. En todas las ciencias la deducción es un método fundamental en la 
+estructuración de teorías. El lector ya ha tenido dos acercamientos en este sentido a la 
+deducción en matemática a través del algebra de conjuntos y el álgebra proposicional en 
+las cuales la deducción se aplica en la demostración de igualdades entre conjuntos o de 
+equivalencias lógicas entre proposiciones respectivamenteEn matemática, la aplicación frecuente de la deducción ocurre en la generación de una 
+demostración (prueba) para una proposición matemática dentro de una teoría matemática. 
+En tal caso el problema consiste en el establecimiento de la verdad de una proposición 
+partiendo de la verdad de otras proposiciones, algunas aceptadas como verdaderas otras 
+quizás ya previamente demostradas. 
+El conjunto de las proposiciones aceptadas como verdaderas, demostración, se 
+denominan axiomas y constituyen las proposiciones que caracterizan lo que se denomina
+La madurez de los conocimientos en un área científica determinada permite la 
+reconstrucción y organización de los conocimientos en teorías. El proceso de 
+reconstrucción de una teoría en los términos planteados se denomina una axiomatización 
+de la teoría. El proceso utilizado para tal reconstrucción se denomina el método axiomático
+de presentación de teorías y es objeto de estudio de la lógica. 
+La axiomatización de una teoría depende fundamentalmente de la definición lógica que se 
+introduzca del concepto de deducción. A continuación una definición rigurosa de dicho 
+concepto a nivel de la lógica proposicional y que refleja su uso en la matemática ordinaria, 
+así como su uso básico en computación.forsythe
