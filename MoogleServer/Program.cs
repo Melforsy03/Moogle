@@ -26,6 +26,5 @@ app.UseRouting();
 app.MapBlazorHub();
 app.MapFallbackToPage("/_Host");
 
-string [] texto = moggle.textos;
 app.Run();
 

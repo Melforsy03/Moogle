@@ -48,3 +48,15 @@ C:\Users\fosythe´s family\Desktop\moogle melani forsythe\MoogleEngine\obj\Debug
 C:\Users\fosythe´s family\Desktop\moogle melani forsythe\MoogleEngine\obj\Debug\net6.0\MoogleEngine.pdb
 C:\Users\fosythe´s family\Desktop\moogle melani forsythe\MoogleEngine\obj\Debug\net6.0\ref\MoogleEngine.dll
 C:\Users\fosythe´s family\Desktop\moogle melani forsythe\MoogleEngine\bin\Debug\net6.0\ref\MoogleEngine.dll
+C:\Users\fosythe´s family\Desktop\Moogle\Moogle\MoogleEngine\bin\Debug\net6.0\MoogleEngine.deps.json
+C:\Users\fosythe´s family\Desktop\Moogle\Moogle\MoogleEngine\bin\Debug\net6.0\MoogleEngine.dll
+C:\Users\fosythe´s family\Desktop\Moogle\Moogle\MoogleEngine\bin\Debug\net6.0\ref\MoogleEngine.dll
+C:\Users\fosythe´s family\Desktop\Moogle\Moogle\MoogleEngine\bin\Debug\net6.0\MoogleEngine.pdb
+C:\Users\fosythe´s family\Desktop\Moogle\Moogle\MoogleEngine\obj\Debug\net6.0\MoogleEngine.csproj.AssemblyReference.cache
+C:\Users\fosythe´s family\Desktop\Moogle\Moogle\MoogleEngine\obj\Debug\net6.0\MoogleEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fosythe´s family\Desktop\Moogle\Moogle\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfoInputs.cache
+C:\Users\fosythe´s family\Desktop\Moogle\Moogle\MoogleEngine\obj\Debug\net6.0\MoogleEngine.AssemblyInfo.cs
+C:\Users\fosythe´s family\Desktop\Moogle\Moogle\MoogleEngine\obj\Debug\net6.0\MoogleEngine.csproj.CoreCompileInputs.cache
+C:\Users\fosythe´s family\Desktop\Moogle\Moogle\MoogleEngine\obj\Debug\net6.0\MoogleEngine.dll
+C:\Users\fosythe´s family\Desktop\Moogle\Moogle\MoogleEngine\obj\Debug\net6.0\ref\MoogleEngine.dll
+C:\Users\fosythe´s family\Desktop\Moogle\Moogle\MoogleEngine\obj\Debug\net6.0\MoogleEngine.pdb

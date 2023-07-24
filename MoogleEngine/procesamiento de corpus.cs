@@ -20,14 +20,17 @@ using System.Text.RegularExpressions;
 namespace Name
 {
 
-  public  class moggle
+   class moggle
  {
-  public static string [] textos = quitar();
+ 
+  
+ 
    public static string [] ReadFolder()//escanear carpetas
   {
-    string[] filas = Directory.GetFiles(@"C:\Users\fosythe´s family\Desktop\moogle melani forsythe", "*.txt", SearchOption.AllDirectories);
+    string path = Path.Join(".." , "Content");
+    string[] filas = Directory.GetFiles(path);
    
-    return filas;
+    return filas ;
   }
   //lee dentro de las carpetas y subcarpetas
     public static string [] ReadFiles()

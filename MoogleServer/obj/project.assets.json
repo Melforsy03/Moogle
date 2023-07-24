@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fosythe´s family\\Desktop\\moogle melani forsythe\\MoogleServer\\MoogleServer.csproj",
+      "projectUniqueName": "C:\\Users\\fosythe´s family\\Desktop\\Moogle\\Moogle\\MoogleServer\\MoogleServer.csproj",
       "projectName": "MoogleServer",
-      "projectPath": "C:\\Users\\fosythe´s family\\Desktop\\moogle melani forsythe\\MoogleServer\\MoogleServer.csproj",
+      "projectPath": "C:\\Users\\fosythe´s family\\Desktop\\Moogle\\Moogle\\MoogleServer\\MoogleServer.csproj",
       "packagesPath": "C:\\Users\\fosythe´s family\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fosythe´s family\\Desktop\\moogle melani forsythe\\MoogleServer\\obj\\",
+      "outputPath": "C:\\Users\\fosythe´s family\\Desktop\\Moogle\\Moogle\\MoogleServer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fosythe´s family\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -51,8 +51,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\fosythe´s family\\Desktop\\moogle melani forsythe\\MoogleEngine\\MoogleEngine.csproj": {
-              "projectPath": "C:\\Users\\fosythe´s family\\Desktop\\moogle melani forsythe\\MoogleEngine\\MoogleEngine.csproj"
+            "C:\\Users\\fosythe´s family\\Desktop\\Moogle\\Moogle\\MoogleEngine\\MoogleEngine.csproj": {
+              "projectPath": "C:\\Users\\fosythe´s family\\Desktop\\Moogle\\Moogle\\MoogleEngine\\MoogleEngine.csproj"
             }
           }
         }
