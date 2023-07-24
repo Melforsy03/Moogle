@@ -50,43 +50,6 @@
         }
       },
       {
-        "HashCode": -786134877,
-        "Kind": "Components.Component",
-        "Name": "MoogleServer.App",
-        "AssemblyName": "MoogleServer",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "MoogleServer.App",
-          "Common.TypeNameIdentifier": "App",
-          "Common.TypeNamespace": "MoogleServer",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": -329685081,
-        "Kind": "Components.Component",
-        "Name": "MoogleServer.App",
-        "AssemblyName": "MoogleServer",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "MoogleServer.App"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "MoogleServer.App",
-          "Common.TypeNameIdentifier": "App",
-          "Common.TypeNamespace": "MoogleServer",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
         "HashCode": -353397655,
         "Kind": "Components.Component",
         "Name": "MoogleServer.Shared.MainLayout",
@@ -190,6 +153,43 @@
           "Components.IsSpecialKind": "Components.ChildContent",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch",
           "Runtime.Name": "Components.None"
+        }
+      },
+      {
+        "HashCode": -786134877,
+        "Kind": "Components.Component",
+        "Name": "MoogleServer.App",
+        "AssemblyName": "MoogleServer",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "MoogleServer.App",
+          "Common.TypeNameIdentifier": "App",
+          "Common.TypeNamespace": "MoogleServer",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": -329685081,
+        "Kind": "Components.Component",
+        "Name": "MoogleServer.App",
+        "AssemblyName": "MoogleServer",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "MoogleServer.App"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "MoogleServer.App",
+          "Common.TypeNameIdentifier": "App",
+          "Common.TypeNamespace": "MoogleServer",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.IComponent"
         }
       },
       {
