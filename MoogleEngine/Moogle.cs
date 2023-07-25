@@ -62,21 +62,26 @@ namespace MoogleEngine
   
     foreach (var kvp in escor)
     {
-      if(kvp.Value == array[i]  )
+      if(kvp.Value == array[i] &&!verificacion.Contains(kvp.Key))
+       
       {
           key = kvp.Key;
+          verificacion.Add(kvp.Key);
          
       }
     }
       // Console.WriteLine(key);
-
-     string snippet = consulta.bestSnipet(TFIDF,query,key,lugares[key]);
+   }
+  for (int i = 0; i < array.Length; i++)
+  {
+    
+       string snippet = consulta.bestSnipet(TFIDF,query,verificacion[i],lugares[verificacion[i]]);
    
-     SearchItem random = new SearchItem( key, snippet, array[i]);
+     SearchItem random = new SearchItem( verificacion[i], snippet, array[i]);
      if(array[i] != 0)
      items.Add(random);
-     }
-
+  }
+ 
         SearchItem [] ar = items.ToArray();
         return new SearchResult(ar,cerca);
   }

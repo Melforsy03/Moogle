@@ -1,25 +1,25 @@
 
 #!/bin/bash
 
-if [ $1 == "run" ] ; then
+if [ $1=="run" ] ; then
 
 cd ..
 dotnet watch run --project MoogleServer
 
-elif [ $1 == "report" ] ; then
+elif [ $1=="report" ] ; then
 
 cd Informe
 
 latexmk -pdf Informe.tex
 
-elif [ $1 == "slides" ] ; then 
+elif [ $1=="slides" ] ; then 
 
 cd Presentacion
 
 latexmk -pdf Presentacion.tex
 
 
-elif [ $1 == "clean" ] ; then 
+elif [ $1=="clean" ] ; then 
 
 rm Informe.aux Informe.fdb_latexmk Informe.fls Informe.log Informe.pdf
 
@@ -30,7 +30,7 @@ rm -r obj
 rm -r bin
 
 
-elif [ $1 == "show_slides" ] ; then 
+elif [ $1=="show_slides" ] ; then 
 
 cd Presentacion
 
@@ -45,13 +45,11 @@ else
 xdg-open Presentacion.pdf
 
 fi
-
- 
  #show report
 
  else 
 
-elif [ $1 == "show_report" ] ; then 
+if [ $1=="show_report" ] ; then 
 
 cd Informe
 
@@ -67,7 +65,4 @@ fi
 
 fi
 
-
-
-
-
+fi
