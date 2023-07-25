@@ -39,6 +39,8 @@ mono programa.exe
 rm programa.exe programa.mdb
 
 fi
+if [$1 == "show_slides"] ; then
+
 if [ -n "$1" ] ; then 
 
 visor ="$1"
@@ -46,7 +48,7 @@ visor ="$1"
 else 
 
 visor="xdg-open"
-
+fi
 directory_script ="$( cd "$( dirname "${BASH_SOURCE[0]}" )" &> /deev/null/ && pwd )"
 
 archivo_pdf ="directory_script/Presentacion.pdf"
