@@ -5,6 +5,7 @@ if [$1 == "run"] ; then
 cd ..
 dotnet watch run --project MoogleServer
 fi
+
 if [$1 == "report"] ; then
 cd Informe
 
@@ -37,6 +38,21 @@ mono programa.exe
 
 rm programa.exe programa.mdb
 
+fi
+if [ -n "$1" ] ; then 
+
+visor ="$1"
+
+else 
+
+visor="xdg-open"
+
+directory_script ="$( cd "$( dirname "${BASH_SOURCE[0]}" )" &> /deev/null/ && pwd )"
+
+archivo_pdf ="directory_script/Presentacion.pdf"
+
+$visor "archivo_pdf"
+ 
 fi
 
 
